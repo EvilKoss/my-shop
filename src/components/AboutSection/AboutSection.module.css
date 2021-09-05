@@ -1,0 +1,19 @@
+.container {
+  margin: 20px;
+  width: 350px;
+  height: 150px;
+}
+
+.container span{
+  font-weight: bold;
+  color: rgb(3, 120, 167);
+}
+
+.container img{
+  padding-right: 10px;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+}
